@@ -1831,6 +1831,10 @@
 			section.wrapper.style1 h4, article.wrapper.style1 h4 {
 				color: #ffea00;
 			}
+			
+			section.wrapper.style1 p, article.wrapper.style1 p {
+				color: #fff;
+			}
 
 		@media screen and (max-width: 980px) {
 
