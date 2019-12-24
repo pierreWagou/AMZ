@@ -2971,7 +2971,7 @@
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0.5em solid #026c45;
+		/* border-top: 0.5em solid #026c45; */
 	}
 
 		#banner h1 {
